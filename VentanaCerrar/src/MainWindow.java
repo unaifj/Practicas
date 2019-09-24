@@ -8,9 +8,9 @@ public class MainWindow extends JFrame {
 	private static final long serialVersionUID = 1L;
 	
 	public MainWindow() {
-		setTitle("Ventana"); 
-		this.setSize(320, 200);
-		this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+		setTitle("Titulo cambiado"); 
+		setSize(320, 200);
+		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 	} 
 
 	public static void main(String[] args) {
