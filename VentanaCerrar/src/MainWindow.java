@@ -16,7 +16,7 @@ public class MainWindow extends JFrame {
 	public static void main(String[] args) {
 		MainWindow mainWindow = new MainWindow(); 
 		mainWindow.setVisible(true);
-		System.out.println("Hola  mundo"); 
+		System.out.println("No me gusta este mensaje"); 
 	}
 
 }
